@@ -4,7 +4,7 @@
   <title><![CDATA[Eclipse Hacking]]></title>
   <link href="http://johnsteele.github.com/atom.xml" rel="self"/>
   <link href="http://johnsteele.github.com/"/>
-  <updated>2013-05-11T13:55:37-07:00</updated>
+  <updated>2013-05-11T13:56:02-07:00</updated>
   <id>http://johnsteele.github.com/</id>
   <author>
     <name><![CDATA[John Steele]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Eclipse Manager: An application for managing Eclipse artifacts.]]></title>
+    <title type="html"><![CDATA[Eclipse Manager: An application for managing Eclipse.]]></title>
     <link href="http://johnsteele.github.com/blog/2013/05/11/remote-workspace-an-application-for-managing-remote-workspaces/"/>
     <updated>2013-05-11T07:21:00-07:00</updated>
     <id>http://johnsteele.github.com/blog/2013/05/11/remote-workspace-an-application-for-managing-remote-workspaces</id>
