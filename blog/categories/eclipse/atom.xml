@@ -4,7 +4,7 @@
   <title><![CDATA[Category: eclipse | Eclipse Hacking]]></title>
   <link href="http://johnsteele.github.com/blog/categories/eclipse/atom.xml" rel="self"/>
   <link href="http://johnsteele.github.com/"/>
-  <updated>2013-05-12T11:21:52-07:00</updated>
+  <updated>2013-05-12T11:25:33-07:00</updated>
   <id>http://johnsteele.github.com/</id>
   <author>
     <name><![CDATA[John Steele]]></name>
@@ -20,8 +20,7 @@
     <id>http://johnsteele.github.com/blog/2013/05/11/remote-workspace-an-application-for-managing-remote-workspaces</id>
     <content type="html"><![CDATA[<p>Managing Eclipse distributions, installations, and workspaces is a common problem among Eclipse users.
 Eclipse Manager aims to help solve this problem by providing a single point of access for these
-Eclipse artifacts. Eclipse Manager is a fat client, which allows users to store the Eclipse artifacts
-on different machines.</p>
+Eclipse artifacts. Eclipse Manager is a fat client, allowing the artifacts to be stored localy, remotely, or both.</p>
 
 <p>You can find the source code for <a href="https://github.com/johnsteele/remotespace/tree/dev" target="_blank">Eclipse Manager</a> on github.</p>
 ]]></content>
