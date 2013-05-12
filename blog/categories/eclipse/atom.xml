@@ -4,7 +4,7 @@
   <title><![CDATA[Category: eclipse | Eclipse Hacking]]></title>
   <link href="http://johnsteele.github.com/blog/categories/eclipse/atom.xml" rel="self"/>
   <link href="http://johnsteele.github.com/"/>
-  <updated>2013-05-11T23:58:42-07:00</updated>
+  <updated>2013-05-12T00:09:41-07:00</updated>
   <id>http://johnsteele.github.com/</id>
   <author>
     <name><![CDATA[John Steele]]></name>
@@ -18,10 +18,7 @@
     <link href="http://johnsteele.github.com/blog/2013/05/11/remote-workspace-an-application-for-managing-remote-workspaces/"/>
     <updated>2013-05-11T07:21:00-07:00</updated>
     <id>http://johnsteele.github.com/blog/2013/05/11/remote-workspace-an-application-for-managing-remote-workspaces</id>
-    <content type="html"><![CDATA[<p>Managing Eclipse distributions, installations, and workspaces has been an ongoing problem for many Eclipse users.
-Whether you are a new or experienced user,</p>
-
-<p>managing Eclipse distributions, installations, and workspaces can become a huge chore.</p>
+    <content type="html"><![CDATA[<p>Managing Eclipse distributions, installations, and workspaces is a common problem faced by both new and experienced Eclipse users.</p>
 ]]></content>
   </entry>
   
