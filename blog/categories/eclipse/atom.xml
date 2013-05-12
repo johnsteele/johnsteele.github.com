@@ -4,7 +4,7 @@
   <title><![CDATA[Category: eclipse | Eclipse Hacking]]></title>
   <link href="http://johnsteele.github.com/blog/categories/eclipse/atom.xml" rel="self"/>
   <link href="http://johnsteele.github.com/"/>
-  <updated>2013-05-12T11:16:07-07:00</updated>
+  <updated>2013-05-12T11:19:39-07:00</updated>
   <id>http://johnsteele.github.com/</id>
   <author>
     <name><![CDATA[John Steele]]></name>
@@ -22,6 +22,8 @@
 Eclipse Manager aims to help solve this problem by providing a single point of access for these
 Eclipse artifacts. Eclipse Manager is a fat client, which allows users to store the Eclipse artifacts
 on different machines.</p>
+
+<p>You can find the source code for this project at <a href="https://github.com/johnsteele/remotespace/tree/dev">Eclipse Manager</a></p>
 ]]></content>
   </entry>
   
